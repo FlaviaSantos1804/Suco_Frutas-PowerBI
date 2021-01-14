@@ -1,2 +1,3 @@
 # Suco_Frutas-PowerBI
-Repositório para armazenamentos de dashboards feitos no Power BI sobre a empresa fictícia Suco de Frutas.
+Link de acesso aos dashboards sobre a empresa Suco de Frutas: https://cutt.ly/UjEgk6k. Para acessá-lo basta clicar no link, ou copiá-lo e colá-lo no espaço adequado do seu navegador.
+A base de dados utilizada neste projeto foi importada do SQL Server. 
